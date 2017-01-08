@@ -7,7 +7,7 @@ SITENAME = 'Will Cline Data Science Portfolio'
 SITEURL = ''
 
 PATH = 'content'
-
+THEME = "/home/think/pelican-themes/bootstrap2"
 TIMEZONE = 'America/Chicago'
 
 DEFAULT_LANG = 'en'
